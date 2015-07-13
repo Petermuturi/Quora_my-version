@@ -2,11 +2,4 @@ body{
 	background-image: url("/home/peter/Desktop/pushed stuff/Quora/back.png");
 	background-size: cover;
 }
-div.stuff{
-	border:solid;
-	border-color: #5D5758;
-	border-width: 1px;
-	padding-left: 47px;
-	padding-right: 47px;
 
-}
