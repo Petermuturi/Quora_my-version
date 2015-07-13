@@ -5,4 +5,8 @@ body{
 div.stuff{
 	border:solid;
 	border-color: #5D5758;
+	border-width: 1px;
+	padding-left: 47px;
+	padding-right: 47px;
+
 }
